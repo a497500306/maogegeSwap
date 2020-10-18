@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maogegeSwap/precache-manifest.90984b20f86f35feb32294e89a74fdde.js"
+  "/maogegeSwap/precache-manifest.05aff59bd931be6812e0eaa84a2c0588.js"
 );
 
 self.addEventListener('message', (event) => {

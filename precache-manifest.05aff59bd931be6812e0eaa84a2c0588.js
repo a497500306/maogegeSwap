@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d96ed05bd1189c9db4174fa91dbb3751",
+    "revision": "0d2e2751123cf919ee4aa94a055651b4",
     "url": "/maogegeSwap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maogegeSwap/static/js/9.254339c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68140bcf267c03f4e36c",
-    "url": "/maogegeSwap/static/js/main.3ae1e727.chunk.js"
+    "revision": "8c94d2b9e8940e9343a3",
+    "url": "/maogegeSwap/static/js/main.c3932760.chunk.js"
   },
   {
     "revision": "9502e6b3825956fab76e",
